@@ -8,7 +8,7 @@ module.exports = {
     
       database: 'api_auth',
       user: 'postgres',
-      password: 'mourad92.000',
+      password: 'privé',
     }
   },
 
